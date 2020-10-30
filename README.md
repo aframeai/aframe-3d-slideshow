@@ -2,6 +2,8 @@
 
 Demo of how to create 3D-Slide-Shows using A-Frame.
 
+[![slideshow-recording](https://user-images.githubusercontent.com/720669/97758675-b294a200-1aff-11eb-9c69-1db2a7452ff1.gif)]()
+
 ## Components used
 
 - [A-Frame HTML-Embed](https://github.com/supereggbert/aframe-htmlembed-component) for rendering HTML-Slides inside A-Frame.
